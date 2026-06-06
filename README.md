@@ -19,12 +19,6 @@ Before you begin, ensure you have the following installed on your system:
 - Cucumber
 - dotenv
 
-To install Playwright Test, Cucumber, and dotenv, open your terminal and run:
-
-```sh
-npm install @playwright/test @cucumber/cucumber dotenv
-```
-
 <br>
 
 ## Environment Setup
@@ -190,4 +184,4 @@ Create a pull request from your remote feature branch to the develop branch.
 Repeat from step #3 until you finish all the features. By following these steps, you will be able to set up, work on, and manage your web test automation project efficiently. Happy coding!<br>
 
 ## Authors
-Oktay - [Oktay](https://github.com/oktayipek/web-test-automation)
+Oktay Ipek - [oktayipek](https://github.com/oktayipek)

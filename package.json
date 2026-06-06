@@ -9,7 +9,7 @@
     "Windows-open:report": "start test-reports/cucumber-report.html"
   },
   "keywords": [],
-  "author": "Oktay",
+  "author": "Oktay Ipek",
   "license": "ISC",
   "description": "Web Test Automation Framework using Playwright and Cucumber",
   "dependencies": {
